@@ -1,1 +1,1 @@
-# resolve-conflict
+# resolveconflict
